@@ -1,0 +1,56 @@
+[
+  {
+    "id": 6,
+    "name": "10% Rabatt Gutschein",
+    "image_url": "/prizes/p_10.png",
+    "rarity": "ultra_rare",
+    "description": "10% Rabatt auf alle Produkte im Shop! - Nicht verwendbar zusammen mit anderen Gutscheinen.",
+    "value": 10,
+    "type": "percentage"
+  },
+  {
+    "id": 5,
+    "name": "10€ Gutschein",
+    "image_url": "/prizes/f_10.png",
+    "rarity": "ultra_rare",
+    "description": "10€ Nachlass auf Produkte im Shop bei einem Mindestbestellwert von 15€! - Nicht verwendbar zusammen mit anderen Gutscheinen.",
+    "value": 10,
+    "type": "flat"
+  },
+  {
+    "id": 4,
+    "name": "5% Rabatt Gutschein",
+    "image_url": "/prizes/p_5.png",
+    "rarity": "super_rare",
+    "description": "5% Rabatt auf alle Produkte im Shop! - Nicht verwendbar zusammen mit anderen Gutscheinen.",
+    "value": 5,
+    "type": "percentage"
+  },
+  {
+    "id": 3,
+    "name": "5€ Gutschein",
+    "image_url": "/prizes/f_5.png",
+    "rarity": "super_rare",
+    "description": "5€ Nachlass auf Produkte im Shop bei einem Mindestwbestellwert von 10€! - Nicht verwendbar zusammen mit anderen Gutscheinen.",
+    "value": 5,
+    "type": "flat"
+  },
+  {
+    "id": 2,
+    "name": "1% Rabatt Gutschein",
+    "image_url": "/prizes/p_1.png",
+    "rarity": "rare",
+    "description": "1% Rabatt auf alle Produkte im Shop! - Nicht verwendbar zusammen mit anderen Gutscheinen.",
+    "value": 1,
+    "type": "percentage"
+  },
+  {
+    "id": 1,
+    "name": "Niete",
+    "image_url": "/prizes/n.png",
+    "rarity": "common",
+    "description": "Viel Glück beim nächsten Mal!",
+    "value": 0,
+    "type": "dud"
+  }
+]

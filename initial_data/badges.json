@@ -1,0 +1,44 @@
+[
+  {
+    "id": "badge_heart",
+    "title": "Ich wünsche mir...",
+    "image_url": "/badges/badge_heart.png",
+    "description": "Hinzufügen eines Artikels zu deiner Wunschliste.",
+    "rarity": "rare"
+  },
+  {
+    "id": "badge_dice",
+    "title": "Versuche dein Glück",
+    "image_url": "/badges/badge_dice.png",
+    "description": "Deinen ersten Versuch im Gutschein-Gacha.",
+    "rarity": "rare"
+  },
+  {
+    "id": "badge_dice_gold",
+    "title": "Gacha-Meister",
+    "image_url": "/badges/badge_dice_gold.png",
+    "description": "Deinen 100. Versuch im Gutschein-Gacha.",
+    "rarity": "ultra_rare"
+  },
+  {
+    "id": "badge_user_silver",
+    "title": "Silber",
+    "image_url": "/badges/badge_user_silver.png",
+    "description": "Erreichen von Level 5.",
+    "rarity": "super_rare"
+  },
+  {
+    "id": "badge_user_gold",
+    "title": "Gold",
+    "image_url": "/badges/badge_user_gold.png",
+    "description": "Erreichen von Level 15.",
+    "rarity": "ultra_rare"
+  },
+  {
+    "id": "badge_user_platinum",
+    "title": "Platin",
+    "image_url": "/badges/badge_user_platinum.png",
+    "description": "Erreichen von Level 30.",
+    "rarity": "super_ultra_rare"
+  }
+]

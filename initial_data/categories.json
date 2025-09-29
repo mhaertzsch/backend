@@ -1,0 +1,27 @@
+[
+  {
+    "id": "consoles",
+    "name": "Konsolen"
+  },
+  {
+    "id": "accessories",
+    "name": "Zubehör"
+  },
+  {
+    "id": "pc-parts",
+    "name": "PC Bauteile"
+  },
+  {
+    "id": "pcs",
+    "name": "Gaming PCs"
+  },
+  {
+    "id": "games",
+    "name": "Spiele"
+  },
+  {
+    "id": "other",
+    "name": "Weiteres"
+  }
+
+]

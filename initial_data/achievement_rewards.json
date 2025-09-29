@@ -1,0 +1,115 @@
+[
+  {
+    "achievement_id": 1,
+    "xp": 1000,
+    "gems": null,
+    "coupon_id": null,
+    "award_badge_id": "badge_dice",
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 2,
+    "xp": 2500,
+    "gems": 30,
+    "coupon_id": null,
+    "award_badge_id": null,
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 3,
+    "xp": null,
+    "gems": 300,
+    "coupon_id": null,
+    "award_badge_id": "badge_user_silver",
+    "account_upgrade": "user_silver"
+  },
+
+  {
+    "achievement_id": 4,
+    "xp": null,
+    "gems": 500,
+    "coupon_id": null,
+    "award_badge_id": "badge_user_gold",
+    "account_upgrade": "user_gold"
+  },
+  {
+    "achievement_id": 5,
+    "xp": null,
+    "gems": 800,
+    "coupon_id": null,
+    "award_badge_id": "badge_user_platinum",
+    "account_upgrade": "user_platinum"
+  },
+  {
+    "achievement_id": 6,
+    "xp": 1500,
+    "gems": 800,
+    "coupon_id": null,
+    "award_badge_id": "badge_heart",
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 7,
+    "xp": null,
+    "gems": 100,
+    "coupon_id": null,
+    "award_badge_id": null,
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 8,
+    "xp": null,
+    "gems": 100,
+    "coupon_id": null,
+    "award_badge_id": null,
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 9,
+    "xp": null,
+    "gems": 100,
+    "coupon_id": null,
+    "award_badge_id": null,
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 10,
+    "xp": null,
+    "gems": 100,
+    "coupon_id": null,
+    "award_badge_id": null,
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 11,
+    "xp": null,
+    "gems": 100,
+    "coupon_id": null,
+    "award_badge_id": null,
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 12,
+    "xp": null,
+    "gems": 500,
+    "coupon_id": null,
+    "award_badge_id": null,
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 13,
+    "xp": null,
+    "gems": 500,
+    "coupon_id": null,
+    "award_badge_id": null,
+    "account_upgrade": null
+  },
+  {
+    "achievement_id": 14,
+    "xp": 2500,
+    "gems": null,
+    "coupon_id": null,
+    "award_badge_id": "badge_dice_gold",
+    "account_upgrade": null
+  }
+]
