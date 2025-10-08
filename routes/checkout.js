@@ -49,7 +49,7 @@ router.post('/', async (req, res) => {
       return res.status(409).json(resp);
     }
     discount =
-      //math floor?
+      
       coupon.type === 'percentage' ? subtotal * (coupon.value / 100) : coupon.value;
 
     //consume coupon
