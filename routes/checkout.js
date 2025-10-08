@@ -44,7 +44,7 @@ router.post('/', async (req, res) => {
     const coupon = result.rows[0];
 
     //Mindestbestellwert von 5€ bei Flat Type Coupons
-    if (coupon.type === 'flat' && subtotal < coupon.value - 5) {
+    if (coupon.type === 'flat' && subtotal <= 5) {
       const resp = { status: 'error', code: 'COUPON_NOT_ELIGIBLE', couponId };
       return res.status(409).json(resp);
     }
